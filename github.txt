@@ -1,0 +1,8 @@
+In the GitHub class, we delved into the functionalities of this widely-used platform for hosting Git repositories. GitHub provides a robust environment for team collaboration and fosters open-source contributions, making it an indispensable tool for modern software development workflows. We covered the following:
+
+Github Account Creation: We learned how to create GitHub accounts, essential for accessing and contributing to repositories.
+Repository Cloning: We explored the process of cloning repositories from GitHub to local machines, enabling developers to work on projects locally.
+Branch Creation: Creating branches within repositories was also discussed.
+Pull Requests: We gained insight into the process of creating pull requests, facilitating code review and collaboration among team members.
+Collaboration: We explored various collaboration features offered by GitHub.
+

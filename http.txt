@@ -1,0 +1,6 @@
+In the HTTP class, we extensively studied the Hypertext Transfer Protocol (HTTP), a cornerstone of web communication. Comprehending HTTP is indispensable for proficiently building and interacting with web applications, as it underpins the entire process of client-server communication. We covered:
+
+Request-Response Model: The fundamental model governing communication between web clients and servers, highlighting the exchange of requests and corresponding responses.
+HTTP Methods: We discussed various HTTP methods such as GET, POST, and others, elucidating their respective roles in retrieving, creating, updating, and deleting resources on web servers.
+Headers & Status Codes: We examined HTTP headers, which convey additional information about requests and responses, including content type, authentication credentials, caching directives, and more. We also learned HTTP status codes, which provide information about the outcome of a request, including success, redirection, client errors, and server errors.
+

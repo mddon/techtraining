@@ -1,0 +1,3 @@
+Our Git class focused on essential version control concepts necessary for collaborative software development. We looked at foundational Git operations, which are crucial for effective teamwork in software development.
+
+I learned to set up Git repositories for tracking changes. We explored committing changes, branching strategies for parallel development and feature isolation. We delved into merging branches and conflict resolution techniques. We Explored interaction with remote repositories for collaboration.
