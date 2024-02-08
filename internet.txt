@@ -1,0 +1,11 @@
+In the Internet class, we covered the fundamental concepts of how the internet works. We discussed the architecture, protocols, and the role of various entities like ISPs and DNS servers. Additionally, we explored the concepts of IP addresses, domain names, and the difference between IPv4 and IPv6.
+
+In the Internet class, we delved into the foundational principles governing the functioning of the internet. Understanding these fundamental concepts is essential for navigating and comprehending the workings of the internet, enabling effective communication and interaction within the digital landscape. We covered:
+
+Internet Architecture: The overall structure and organization of the internet, including the interconnected network of devices and servers.
+Protocols: We discussed the protocols that facilitate communication and data transfer across the internet, such as TCP/IP, HTTP, and DNS.
+Entities: Examined the roles of key entities within the internet ecosystem, including Internet Service Providers (ISPs) responsible for providing internet access, and Domain Name System (DNS) servers responsible for translating domain names to IP addresses.
+IP Addresses: We learned the concept of IP addresses, unique identifiers assigned to devices connected to the internet, and their role in routing data packets across networks.
+Domain Names: We explored the use of domain names as human-readable addresses for accessing resources on the internet, and the domain name system used for domain name resolution.
+IPv4 vs. IPv6: Compared IPv4 and IPv6 addressing schemes, highlighting the differences in address format and the transition from IPv4 to IPv6 to accommodate the growing number of internet-connected devices.
+
